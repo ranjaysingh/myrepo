@@ -1,1 +1,3 @@
 # myrepo
+class FirstRepoDemo
+{}
